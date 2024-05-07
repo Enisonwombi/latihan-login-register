@@ -1,2 +1,2 @@
-# latihan-login-register
-Membuat Form Login &amp; Registrasi Menggunakan HTML, CSS dan Javascript
+# latihs-websate
+Cara Membuat Website Dengan Wordpress Untuk Pemula
